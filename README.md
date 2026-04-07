@@ -144,7 +144,7 @@ O projeto foi desenvolvido no **Google Colab**.
 
 ### 1. Abrir o notebook
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maah21/RPMM/blob/main/modelo_otimizacao.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maah21/RPMM/blob/main/RPMM.ipynb)
 
 ### 2. Fazer upload dos arquivos de entrada
 
